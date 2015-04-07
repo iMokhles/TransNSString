@@ -16,6 +16,11 @@ it helps u to protect some strings to be changed like your credits means ( to ma
 NSString *newString = [NSString translateToAR:@"تجربة" toCA:nil toCS:nil toDA:nil toDE:nil toEL:nil toEN:@"Test" toEN_AU:nil toEN_GB:@"EN_GB" toES:nil toES_MX:nil toFI:nil toFR:@"Essayer" toFR_CA:nil toHE:nil toHI:nil toHR:nil toHU:nil toID:nil toIT:nil toJA:nil toKO:nil toMS:nil toNL:nil toNO:nil toPL:nil toPT:nil toPT_PT:nil toRO:nil toRU:nil toSK:nil toSV:nil toTH:nil toTR:nil toUK:nil toVI:nil toZH_CN:nil toZH_HK:nil toZH_TW:nil];
 </pre>
 
+**To Do**
+
+* add Google translator
+* add Bing translator
+
 **Credits**
 
 TransNSString is brought to you by **Mokhlas Hussein** <a href="http://www.imokhles.com/">@iMokhles</a>
